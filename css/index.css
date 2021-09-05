@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin-right: 0;
   padding: 0;
   text-decoration: none;
   list-style: none;
@@ -24,7 +24,7 @@ nav span a{
 
 nav ul {
   float: right;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 nav ul li {
