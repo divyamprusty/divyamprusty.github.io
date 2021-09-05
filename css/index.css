@@ -9,31 +9,33 @@
 }
 
 nav {
-  height: 7rem;
+  height: 80px;
   width: 100%;
 }
 
 nav span a{
-  font-size: 3rem;
-  padding: 0 10rem;
-  line-height: 7rem;
+  font-size: 35px;
+  padding: 0 100px;
+  line-height: 80px;
+  padding: 0 100px;
   font-weight: bold;
 }
 
 nav ul {
   float: right;
-  margin-right: 2rem;
+  margin-right: 20px;
 }
 
 nav ul li {
   display: inline-block;
-  line-height: 7rem;
-  margin: 0 0.5rem;
+  line-height: 80px;
+  margin: 0 5px;
 }
 
 nav ul li a {
-  font-size: 2rem;
-  border-radius: 0.2rem;
+  font-size: 20px;
+  padding: 7px 13px;
+  border-radius: 3px;
 }
 
 nav ul li a.active,
@@ -43,11 +45,11 @@ nav ul li a:hover {
 }
 
 .check {
-  font-size: 3rem;
+  font-size: 30px;
   color: black;
   float: right;
-  line-height: 7rem;
-  margin-right: 4rem;
+  line-height: 80px;
+  margin-right: 40px;
   cursor: pointer;
   display: none;
 }
