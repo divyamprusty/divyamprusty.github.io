@@ -14,6 +14,7 @@ nav {
 }
 
 nav span a{
+  color: black;
   font-size: 35px;
   padding: 0 100px;
   line-height: 80px;
@@ -33,6 +34,7 @@ nav ul li {
 }
 
 nav ul li a {
+  color: black;
   font-size: 20px;
   padding: 7px 13px;
   border-radius: 3px;
@@ -40,7 +42,7 @@ nav ul li a {
 
 nav ul li a.active,
 nav ul li a:hover {
-  background-color: blue;
+  background-color: cyan;
   transition: 0.5s;
 }
 
