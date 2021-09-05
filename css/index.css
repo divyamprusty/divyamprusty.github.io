@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 1rem;
+  padding: 0;
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
@@ -9,7 +9,7 @@
 }
 
 nav {
-  height: 8rem;
+  height: 7rem;
   width: 100%;
 }
 
